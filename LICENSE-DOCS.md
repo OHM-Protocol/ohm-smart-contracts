@@ -2,7 +2,7 @@
 
 This repository is primarily for smart contract code for OHM Protocol.
 
-The **code licensing** for this repository is described separately in `LICENSE-INTENT.md`
+The **code licensing** for this repository is described separately in `LICENSE-SMART-CONTRACTS-INTENT.md`
 (and will be replaced by a final strong copyleft open-source license, for example AGPL‑3.0).
 
 Unless otherwise marked, **documentation and other non-code content** in this repository
